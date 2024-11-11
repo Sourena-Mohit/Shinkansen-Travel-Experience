@@ -38,9 +38,10 @@ The objective of this project is to identify the key factors influencing positiv
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.11.9
 - Jupyter Notebook
-- Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
+- Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn` , `scipy`, `xgboost`, `category_encoders`,`joblib`, `lightgbm`, `catboost` 
+
 
 ### Installation
 
