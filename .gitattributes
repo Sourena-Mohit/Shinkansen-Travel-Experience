@@ -1,3 +1,12 @@
 models/random_forest_model.pkl filter=lfs diff=lfs merge=lfs -text
 models/catboost_model.pkl filter=lfs diff=lfs merge=lfs -text
 models/stacking_model.pkl filter=lfs diff=lfs merge=lfs -text
+*.pkl linguist-generated=true
+models/* linguist-vendored
+Data/* linguist-vendored
+Submission/* linguist-vendored
+catboost_info/* linguist-vendored
+figures/* linguist-vendored
+.ipynb_checkpoints/* linguist-vendored
+
+
