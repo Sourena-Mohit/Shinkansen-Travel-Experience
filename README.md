@@ -47,5 +47,5 @@ The objective of this project is to identify the key factors influencing positiv
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Sourena-Mohit/Shinkansen-Travel-Experience-For-Hackathons.git
+   git clone https://github.com/Sourena-Mohit/Shinkansen-Travel-Experience.git
    cd Shinkansen-Travel-Experience
